@@ -1,0 +1,15 @@
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Business\bin\Debug\netcoreapp3.1\TODO.Business.deps.json
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Business\bin\Debug\netcoreapp3.1\TODO.Business.dll
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Business\bin\Debug\netcoreapp3.1\TODO.Business.pdb
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Business\obj\Debug\netcoreapp3.1\TODO.Business.csproj.AssemblyReference.cache
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Business\obj\Debug\netcoreapp3.1\TODO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Business\obj\Debug\netcoreapp3.1\TODO.Business.AssemblyInfoInputs.cache
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Business\obj\Debug\netcoreapp3.1\TODO.Business.AssemblyInfo.cs
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Business\obj\Debug\netcoreapp3.1\TODO.Business.csproj.CoreCompileInputs.cache
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Business\obj\Debug\netcoreapp3.1\TODO.Business.dll
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Business\obj\Debug\netcoreapp3.1\TODO.Business.pdb
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Business\bin\Debug\netcoreapp3.1\TODO.DataAccess.dll
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Business\bin\Debug\netcoreapp3.1\TODO.Shared.dll
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Business\bin\Debug\netcoreapp3.1\TODO.DataAccess.pdb
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Business\bin\Debug\netcoreapp3.1\TODO.Shared.pdb
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Business\obj\Debug\netcoreapp3.1\TODO.Business.csproj.CopyComplete

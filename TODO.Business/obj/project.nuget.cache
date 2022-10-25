@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kkq8806n6T0rMO11qLZSwwnFhuu9owoytfzUIToiiAzp+O0iMUKrt4roVuOTpnGk7SdHKr/bswEdWRBXUlUicg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ulas\\Desktop\\Task\\TODO.Service\\TODO.Business\\TODO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ulas\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.30\\microsoft.entityframeworkcore.3.1.30.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.30\\microsoft.entityframeworkcore.abstractions.3.1.30.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.30\\microsoft.entityframeworkcore.analyzers.3.1.30.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\3.1.30\\microsoft.entityframeworkcore.inmemory.3.1.30.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.30\\microsoft.extensions.caching.abstractions.3.1.30.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.30\\microsoft.extensions.caching.memory.3.1.30.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.30\\microsoft.extensions.configuration.3.1.30.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.30\\microsoft.extensions.configuration.abstractions.3.1.30.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.30\\microsoft.extensions.configuration.binder.3.1.30.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.30\\microsoft.extensions.dependencyinjection.3.1.30.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.30\\microsoft.extensions.dependencyinjection.abstractions.3.1.30.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\microsoft.extensions.logging\\3.1.30\\microsoft.extensions.logging.3.1.30.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.30\\microsoft.extensions.logging.abstractions.3.1.30.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\microsoft.extensions.options\\3.1.30\\microsoft.extensions.options.3.1.30.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.30\\microsoft.extensions.primitives.3.1.30.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\ulas\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

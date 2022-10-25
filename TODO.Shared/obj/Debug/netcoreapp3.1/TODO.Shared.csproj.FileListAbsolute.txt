@@ -1,0 +1,10 @@
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Shared\bin\Debug\netcoreapp3.1\TODO.Shared.deps.json
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Shared\bin\Debug\netcoreapp3.1\TODO.Shared.dll
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Shared\bin\Debug\netcoreapp3.1\TODO.Shared.pdb
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Shared\obj\Debug\netcoreapp3.1\TODO.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Shared\obj\Debug\netcoreapp3.1\TODO.Shared.AssemblyInfoInputs.cache
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Shared\obj\Debug\netcoreapp3.1\TODO.Shared.AssemblyInfo.cs
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Shared\obj\Debug\netcoreapp3.1\TODO.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Shared\obj\Debug\netcoreapp3.1\TODO.Shared.dll
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Shared\obj\Debug\netcoreapp3.1\TODO.Shared.pdb
+C:\Users\ulas\Desktop\Task\TODO.Service\TODO.Shared\obj\Debug\netcoreapp3.1\TODO.Shared.csproj.AssemblyReference.cache

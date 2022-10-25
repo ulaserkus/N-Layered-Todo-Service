@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TODO.API</name>
+    </assembly>
+    <members>
+        <member name="T:TODO.API.Controllers.TodosController">
+            <summary>
+            Endpoints for manages todos
+             </summary>
+             <remarks>
+             Manage Todo records from this API
+             </remarks>
+        </member>
+        <member name="M:TODO.API.Controllers.TodosController.Add(TODO.Business.DTOs.TodoCreateDto)">
+            <summary>
+            Endpoint adds a new Todo record
+             </summary>
+             <remarks>
+             Title is required , duedate is optional but if you don't send default is tomorrow
+             
+             Sample body request:
+            
+                 POST /Todos
+                 {
+                    "Title": "Item1",
+                    "DueDate": "2022-10-30"
+                 }
+            
+             </remarks>
+        </member>
+        <member name="M:TODO.API.Controllers.TodosController.Update(System.Int32,TODO.Business.DTOs.TodoUpdateDto)">
+            <summary>
+            Endpoint updates a existing Todo record
+             </summary>
+             <remarks>
+             Query parameter id and body elements title , IsMarked are required , duedate is optional but if you don't send default is old record's date will set
+             
+             Sample body request:
+            
+                 PATCH /Todos
+                 {
+                    "Title": "Item2",
+                    "DueDate": "2022-10-30",
+                    "IsMarked": true
+                 }
+            
+             </remarks>
+             <param name="id"></param>
+        </member>
+        <member name="M:TODO.API.Controllers.TodosController.Delete(System.Int32)">
+            <summary>
+            Endpoint deletes a existing Todo record
+             </summary>
+             <remarks>
+             Query parameter id is required 
+             </remarks>
+             <param name="id"></param>
+        </member>
+        <member name="M:TODO.API.Controllers.TodosController.GetOverdueTodos">
+            <summary>
+            Endpoint gets a existing overdue Todo records
+             </summary>
+             <remarks>
+             No requires this endpoint 
+             
+             
+             GET  /api/Todos/GetOverdues
+             </remarks>
+        </member>
+        <member name="M:TODO.API.Controllers.TodosController.GetPendingTodos">
+            <summary>
+            Endpoint gets a existing pending Todo records
+             </summary>
+             <remarks>
+             No requires this endpoint 
+             
+             
+             GET  /api/Todos/GetPendings
+             </remarks>
+        </member>
+    </members>
+</doc>
